@@ -1,7 +1,3 @@
-Certainly! Below is a basic README.md template for a GitHub repository containing a website for Minerva Solutions:
-
----
-
 # Minerva Solutions Website
 
 Welcome to the Minerva Solutions website repository!
